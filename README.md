@@ -29,7 +29,7 @@ input validation, and error handling.
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/roni-kid/DevTown-Python-for-Ethical-Hacking
 cd python-security-toolkit
 pip install -r requirements.txt
 ```
